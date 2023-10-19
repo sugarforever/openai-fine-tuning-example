@@ -1,0 +1,48 @@
+{
+    "qa": [
+        {
+            "question": "How do I check stock?",
+            "answer": "You can check out how to check stock in store and online here!"
+        },
+        {
+            "question": "Can I return items?",
+            "answer": "If you’re not totally satisfied, we have several different ways you can return products to us."
+        },
+        {
+            "question": "Can I track my delivery?",
+            "answer": "Yes! We offer order tracking online for you to keep track of your items while they are on a journey to their forever homes."
+        },
+        {
+            "question": "Can I bring my pet into an IKEA store?",
+            "answer": "Registered service animals, such as guide dogs and hearing assistance dogs, are always welcome!"
+        },
+        {
+            "question": "Do you provide extra or replacement parts?",
+            "answer": "Yes, you can order spare parts online and get them delivered directly to your door."
+        },
+        {
+            "question": "Can I borrow a wheelchair in your stores?",
+            "answer": "Yes, you can find them inside each store entrance area!"
+        },
+        {
+            "question": "Can I use IKEA Gift Cards or e-vouchers in other countries?",
+            "answer": "You can use IKEA gift cards or IKEA e-vouchers in other countries, but there are limitations."
+        },
+        {
+            "question": "Can I cancel my online order before delivery?",
+            "answer": "You can manage, track and cancel the order you have placed online using your order number and email address."
+        },
+        {
+            "question": "I missed my collection timeslot, what can I do?",
+            "answer": "If you are unable to collect your order, do not fear."
+        },
+        {
+            "question": "Can I add items onto my order after purchase?",
+            "answer": "You cannot add any products onto your order after it has been placed."
+        },
+        {
+            "question": "Does IKEA offer an NHS / Key Worker Discount?",
+            "answer": "At present IKEA does not offer a discount to NHS staff or key workers..."
+        }
+    ]
+}

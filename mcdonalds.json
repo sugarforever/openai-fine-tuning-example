@@ -1,0 +1,52 @@
+{
+    "qa": [
+        {
+            "question": "What's the salt content in a Happy Meal®?",
+            "answer": "You can find a full ingredient declaration for all food (including our Happy Meal® products) served in the U.K. by visiting our online nutritional calculator tool here or downloading our Allergen Booklet here."
+        },
+        {
+            "question": "Where does your curry sauce come from?",
+            "answer": "Our Sweet Curry Dip is made by our sauce supplier who is based in Lancashire."
+        },
+        {
+            "question": "What's the sugar content of your products?",
+            "answer": "You can find a full ingredient declaration for all food (including our sugar content) served in the U.K. by visiting our online nutritional calculator tool here or downloading our Allergen Booklet here."
+        },
+        {
+            "question": "What time does the breakfast service start in 24-hour restaurants?",
+            "answer": "In a 24-hour McDonald's restaurant, our breakfast menu is served from 5am."
+        },
+        {
+            "question": "Can you give me some nutritional information about the Quaker Oat So Simple porridge?",
+            "answer": "You can find a full ingredient declaration for all food served (including our Quaker Oat So Simple porridge) in the U.K. by visiting our online nutritional calculator tool here or downloading our Allergen Booklet here."
+        },
+        {
+            "question": "What's your Big Mac® packaging made from?",
+            "answer": "Our Big Mac packaging is made from carton board with the middle layer from recycled sources (around 70%) and the outside layer from controlled wood forestry sources. "
+        },
+        {
+            "question": "What meat are you sausages made from?",
+            "answer": "Our sausage patties are made with British RSPCA Assured pork. "
+        },
+        {
+            "question": "Is your porridge suitable for vegans?",
+            "answer": "Our Oatso Simple Plain porridge is normally made with milk however it will be suitable for vegans if it's made with water instead of milk. If you let your server know when placing your order they will be happy to arrange this for you."
+        },
+        {
+            "question": "Do your sauces contain pork fat or LM10?",
+            "answer": "No, the sauces used in McDonald's in the U.K. do not contain pork fat or LM10.\nYou can find a full ingredient declaration for all food served in the U.K. by visiting our online nutritional calculator tool here or downloading our Allergen Booklet here."
+        },
+        {
+            "question": "Do you offer discounts with both standard and NUS student cards?",
+            "answer": "Yes, we accept all valid Student/NUS Cards with a photograph, valid end date and the name of the University, Sixth Form or College. We also accept UNiDAYS® Digital ID. "
+        },
+        {
+            "question": "Where do you run your football initiatives?",
+            "answer": "Our free, Fun Football coaching sessions for children of all abilities aged 5-11 are held in hundreds of locations across the UK, taking place in the Spring, Summer and Autumn. To find a local session and register, click here https://www.mcdonalds.com/gb/en-gb/football/fun-football-centres.html. "
+        },
+        {
+            "question": "Do you offer student discounts on breakfast meals?",
+            "answer": "No, sorry, we don't have any nationwide student offers on our breakfast menu items."
+        }
+    ]
+}
